@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+💬 Ask me about my homelab.  I have it in a private repo for now but looking to expand it to be public for others to learn.
+
 <!--
 **CyberSecurityBro/CyberSecurityBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
