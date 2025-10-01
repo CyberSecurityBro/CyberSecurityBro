@@ -25,7 +25,7 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 
 ## 🛠️ Tech & Tools  
 
-`AWS` | `GCP` | `Kubernetes` | `Terraform` | `ArgoCD` | `Cilium` | `GitHub Actions` | `GitLab CI` | `Linux` | `Vault` | `SOPS`
+`AWS` | `GCP` | `Kubernetes` | `Terraform` | `ArgoCD` | `Cilium` | `GitHub Actions` | `GitLab CI` | `Linux` | `Doppler`
 
 ---
 
