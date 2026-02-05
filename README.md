@@ -32,12 +32,14 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 ## 📜 Certifications  
 
 ![AWS](https://img.shields.io/badge/AWS-SAA-orange?logo=amazonaws)  
-![CKA](https://img.shields.io/badge/CKA-blue?logo=kubernetes)  
+![CKA](https://img.shields.io/badge/CKA-blue?logo=kubernetes) 
+![CKAD](https://img.shields.io/badge/CKAD-blue?logo=kubernetes) 
 ![GWAPT](https://img.shields.io/badge/GWAPT-green)  
 ![CCSK](https://img.shields.io/badge/CCSK-lightgrey)
 
 - ✅ AWS Solutions Architect – Associate  
-- ✅ Certified Kubernetes Administrator (CKA)  
+- ✅ Certified Kubernetes Administrator (CKA)
+- ✅ Certified Kubernetes Application Developer (CKAD)  
 - ✅ GIAC Web App Pen Tester (GWAPT)  
 - ✅ Certificate of Cloud Security Knowledge (CCSK)  
 
@@ -45,7 +47,8 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 
 ## 🧭 Projects & Experiments  
 
-- 💼 **[resumeapp.herreralab.cloud](https://resumeapp.herreralab.cloud)** – ArgoCD-managed resume app running on baremetal Kubernetes  
+- 💼 **[resume.cybersecuritybro.com](https://resume.cybersecuritybro.com)** – ArgoCD-managed resume running on baremetal Kubernetes on Mac Mini
+- 💻 **Blog with DB backend** - Creating a blog with DB backend on kubernetes to work on data back up strategies
 - 🔐 **Lab-to-Live** – Exploring IAM, policy-as-code, and multi-cloud security workflows  
 - ☸️ **Network Security with Cilium** – eBPF for zero trust & visibility  
 
