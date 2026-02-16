@@ -16,7 +16,6 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 ## 🔐 What I Focus On  
 
 - 🌩️ **Cloud Architecture & Security** – AWS & GCP workloads hardened with best practices  
-- ⚙️ **Infrastructure as Code** – Terraform-first mindset, modular & scalable deployments  
 - ☸️ **Kubernetes** – Secure, observable, and manageable clusters for any environment  
 - 🚀 **CI/CD & GitOps** – Streamlined delivery with built-in security gates  
 - 🔄 **Automation** – Workflows that cut manual effort and reduce risk  
@@ -53,7 +52,7 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 - ☸️ **Network Security with Cilium** – eBPF for zero trust & visibility  
 
 #### 🔮 2026 Plans  
-- 📜 Policy-as-Code & drift detection for IaC workflows  
+- 📜 Infrastructure as Code – Terraform-first, modular & scalable deployments  
 - 🔄 GitOps homelab
 
 ---
