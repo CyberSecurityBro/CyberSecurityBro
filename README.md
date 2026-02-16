@@ -1,7 +1,7 @@
 # ☁️ Alejandro Herrera | Cybersecuritybro
 
 > **Do Not Quit On Yourself.**  
-> If you are able to go for it, go for it.
+> Progress beats perfection.
 
 ---
 
@@ -48,13 +48,13 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 ## 🧭 Projects & Experiments  
 
 - 💼 **[resume.cybersecuritybro.com](https://resume.cybersecuritybro.com)** – ArgoCD-managed resume running on baremetal Kubernetes on Mac Mini
-- 💻 **Blog with DB backend** - Creating a blog with DB backend on kubernetes to work on data back up strategies
+- 💻 **Code-to-Blog** - Write a blog in code.  Deployed to Cloudflare Pages
 - 🔐 **Lab-to-Live** – Exploring IAM, policy-as-code, and multi-cloud security workflows  
 - ☸️ **Network Security with Cilium** – eBPF for zero trust & visibility  
 
 #### 🔮 2026 Plans  
 - 📜 Policy-as-Code & drift detection for IaC workflows  
-- 🔄 Pipelines + Terraform with integrated security scanning  
+- 🔄 GitOps homelab
 
 ---
 
@@ -62,7 +62,7 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 
 - 🧠 **Cilium** – Network visibility & security with eBPF  
 - 🚀 **ArgoCD** – Declarative GitOps at scale  
-- 🛠️ **Secrets Management** – Vault, SOPS, external-secrets  
+- 🛠️ **Secrets Management** – Doppler, SOPS, external-secrets  
 - 🔐 **CI/CD Security** – Building guardrails in GitHub & GitLab pipelines  
 
 ---
@@ -71,7 +71,7 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 
 - 🌐 Website: [cybersecuritybro.com](https://cybersecuritybro.com)  
 - 💼 LinkedIn: [Alejandro Herrera](https://www.linkedin.com/in/alejandro-herrera-cissp)  
-- 📄 ResumeApp: [resumeapp.herreralab.cloud](https://resumeapp.herreralab.cloud)  
+- 📄 ResumeApp: [resume.cybersecuritybro.com](https://resume.cybersecuritybro.com)  
 
 ---
 
