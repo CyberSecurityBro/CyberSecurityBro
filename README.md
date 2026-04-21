@@ -33,13 +33,11 @@ My work bridges **DevSecOps**, **automation**, and **scalable cloud-native syste
 ![AWS](https://img.shields.io/badge/AWS-SAA-orange?logo=amazonaws)  
 ![CKA](https://img.shields.io/badge/CKA-blue?logo=kubernetes) 
 ![CKAD](https://img.shields.io/badge/CKAD-blue?logo=kubernetes) 
-![GWAPT](https://img.shields.io/badge/GWAPT-green)  
 ![CCSK](https://img.shields.io/badge/CCSK-lightgrey)
 
 - ✅ AWS Solutions Architect – Associate  
 - ✅ Certified Kubernetes Administrator (CKA)
-- ✅ Certified Kubernetes Application Developer (CKAD)  
-- ✅ GIAC Web App Pen Tester (GWAPT)  
+- ✅ Certified Kubernetes Application Developer (CKAD)
 - ✅ Certificate of Cloud Security Knowledge (CCSK)  
 
 ---
